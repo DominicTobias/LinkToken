@@ -1,9 +1,9 @@
 pragma solidity >=0.6.0 <0.8.0;
 
 import "@chainlink/contracts/src/v0.6/Owned.sol";
-import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
-import "@openzeppelin/contracts/utils/ReentrancyGuard.sol";
-import "@openzeppelin/contracts/math/SafeMath.sol";
+import "./@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "./@openzeppelin/contracts/utils/ReentrancyGuard.sol";
+import "./@openzeppelin/contracts/math/SafeMath.sol";
 import "./token/ERC677Receiver.sol";
 
 /**

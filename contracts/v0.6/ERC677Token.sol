@@ -1,6 +1,6 @@
 pragma solidity ^0.6.0;
 
-import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "./@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "./token/ERC677.sol";
 import "./token/ERC677Receiver.sol";
 
